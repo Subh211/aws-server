@@ -1,0 +1,12 @@
+PORT=3001
+// PORT=3001
+// DB_URL=localhost
+// DB_USER=root
+// DB_NAME=ShopCart_DB1
+// DB_PASS=Mac@local12345
+// DB_ALTER=false
+// DB_FORCE=false
+// SALT_ROUNDS=9
+// JWT_SECRET=ecom_jwt_secret
+// JWT_EXPIRY=1h
+// NODE_ENV=development
