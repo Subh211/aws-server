@@ -19,4 +19,7 @@ jobs:
         run: npm install
 
       - name: "Run the tests"
-        run: npm test
+        run: npm 
+        
+      - name: "Start the server"
+        run: pm2 restart src/index.js

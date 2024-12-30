@@ -30,7 +30,7 @@ app.use('/api', ApiRouter); // if any req comes with url starting with /api
 
 app.get('/ping', (req, res) => {
     return res.json({
-        message: 'subhadeep is the biggest hero'
+        message: 'subhadeep is the biggest hero and also very much alone'
     })
     //res.send('pongggggggggggggg')
 });
